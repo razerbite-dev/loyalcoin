@@ -1,0 +1,39 @@
+.crypto-slider li{width:auto !important; display:inline-block; max-height:32px !important; }
+.crypto-slider {max-height:32px !important; float:left; cursor: pointer; list-style:none;white-space: nowrap;}
+.crypto-slider .up{color:#82B441 !important}
+.crypto-slider .down{color:#CC3333 !important}
+.crypto-slider .down, .crypto-slider .up {font-size:12px !important;margin-left: 5px;float:right;margin-right: 8px;font-weight:bold;}
+header .crypto-slider , footer .crypto-slider {width:100% !important; float:left; position:relative}
+
+
+
+.crypto-donation-wrap{width:100%;float:left;}
+p.crypto-donation {display:inline-block; background:#fff; border:#ddd solid 1px; padding:2%; text-align:center;max-width:96%}
+p.crypto-donation strong{font-size:20px}
+
+.pmcgraphcrypto, .pmcgraphcrypto div, .pmcgraphcrypto iframe { width:100% !important;height:100%;}
+.tv-widget-chart__footer {display:none !important;}
+.tradingview-widget-copyright {border:1px solid #ddd; border-top:none;}
+.tradingview-widget-copyright.advance-chart {margin-top:-10px}
+.tradingview-widget-copyright{display:none}
+table.prices-table {width:auto !important}
+img.crypto-ticker-icon {padding:0 !important}
+
+/*payment*/
+table.pmc_payment_form_table td input{width:95%;background:none;padding:0px !important; background:#fff}
+table.pmc_payment_form_table td {vertical-align:middle;}
+table.pmc_payment_form_table td input:read-only {background:none; font-weight:bold}
+table.pmc_payment_form_table td input:required{border:2px solid #ccc !important; box-shadow:none !important}
+.pmc_payment h2{padding-bottom:20px}
+.pmc_payment table{min-width:400px;}
+.pmc_payment input[type=submit]{background:#222; padding:25px 40px !important;border-radius:3px;margin:6px 0;width:96%;}
+.pmc_payment img, .pmc_payment strong{float:left; clear:both}
+.pmc_payment {float:left;  padding:20px;background:#fff;box-shadow: 0 0 6px 6px rgba(195,195,195,.12);}
+
+
+@media screen and (min-width:0px) and (max-width:515px){
+		.pmc_payment {padding:0;box-shadow:none;background:none;}
+	    .pmc_payment table {min-width:initial;}
+	    .pmc_payment table td {max-width:200px;}
+	    .pmc_payment input[type=submit]{padding: 25px 20px !important;}
+}

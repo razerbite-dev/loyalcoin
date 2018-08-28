@@ -1,0 +1,162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-09 10:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/common.class.php:105
+msgid "Data by"
+msgstr ""
+
+#: includes/cryptodonation.class.php:73
+msgid "To donate"
+msgstr ""
+
+#: includes/cryptodonation.class.php:73
+msgid ", scan the QR code or copy and paste the"
+msgstr ""
+
+#: includes/cryptodonation.class.php:73 includes/cryptopayment.class.php:173
+msgid " wallet address:"
+msgstr ""
+
+#: includes/cryptodonation.class.php:81
+msgid "Thank you!"
+msgstr ""
+
+#: includes/cryptopayment.class.php:169
+msgid "Order submitted. Please make a payment:"
+msgstr ""
+
+#: includes/cryptopayment.class.php:173
+msgid "To pay"
+msgstr ""
+
+#: includes/cryptopayment.class.php:173
+msgid ", scan the QR code or copy and paste the "
+msgstr ""
+
+#: includes/cryptopayment.class.php:251
+msgid "Please enter order details:"
+msgstr ""
+
+#: includes/cryptopayment.class.php:259
+msgid "Item name:"
+msgstr ""
+
+#: includes/cryptopayment.class.php:273
+msgid "Order amount:"
+msgstr ""
+
+#: includes/cryptopayment.class.php:285
+msgid "Name:"
+msgstr ""
+
+#: includes/cryptopayment.class.php:293
+msgid "Email:"
+msgstr ""
+
+#: includes/cryptopayment.class.php:301
+msgid "Address:"
+msgstr ""
+
+#: includes/cryptopayment.class.php:309
+msgid "Telephone:"
+msgstr ""
+
+#: includes/cryptopayment.class.php:317
+msgid "Proceed to payment"
+msgstr ""
+
+#: includes/currencyprice.class.php:234
+msgid "price"
+msgstr ""
+
+#: includes/currencyprice.class.php:242
+msgid "calculator"
+msgstr ""
+
+#: includes/currencyprice.class.php:664
+msgid "Select interval"
+msgstr ""
+
+#: includes/currencyprice.class.php:668
+msgid "1 hour"
+msgstr ""
+
+#: includes/currencyprice.class.php:670
+msgid "24 hours"
+msgstr ""
+
+#: includes/currencyprice.class.php:672
+msgid "30 days"
+msgstr ""
+
+#: includes/currencyprice.class.php:674
+msgid "1 year"
+msgstr ""
+
+#: includes/currencyprice.class.php:772
+msgid "Coin"
+msgstr ""
+
+#: includes/currencyprice.class.php:774
+msgid "Algorithm; Proof type"
+msgstr ""
+
+#: includes/currencyprice.class.php:776
+msgid "Total supply"
+msgstr ""
+
+#: includes/ethereum.class.php:59
+msgid "Check Ethereum address balance"
+msgstr ""
+
+#: includes/ethereum.class.php:63
+msgid "Ethereum address"
+msgstr ""
+
+#: includes/ethereum.class.php:65
+msgid "Get balance"
+msgstr ""
+
+#: includes/ethereum.class.php:157
+msgid "View Ethereum block"
+msgstr ""
+
+#: includes/ethereum.class.php:161
+msgid "Block number or hash"
+msgstr ""
+
+#: includes/ethereum.class.php:163
+msgid "Get block"
+msgstr ""
+
+#. Name of the plugin
+msgid "PremiumCoding Crypto Coins"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Provides multiple cryptocurrency features: accepting payments, displaying "
+"prices and exchange rates."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://premiumcoding.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "PremiumCoding"
+msgstr ""
